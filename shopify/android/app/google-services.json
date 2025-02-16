@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078459986990",
+    "project_id": "fluttermaj",
+    "storage_bucket": "fluttermaj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078459986990:android:18e3cfc34a6ccb34049bbf",
+        "android_client_info": {
+          "package_name": "com.example.shopify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUuix2YwVIir2x7RAT-UYe7V2dTgzfKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
